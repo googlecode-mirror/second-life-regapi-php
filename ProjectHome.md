@@ -1,0 +1,1 @@
+some php code to register Avitars on your own website and or island
